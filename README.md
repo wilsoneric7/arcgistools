@@ -1,7 +1,8 @@
-    /T\  
-   /  \ ↔
-  (V)
 
+    /T\  
+   / ↔ \
+  / (V) \
+-----------
 Survey Traverse Tool for ArcGIS
 This is a simple but handy tool for converting survey traverse data from CSV format into ArcGIS point features. I built this to help automate the conversion of field data without having to manually enter everything into ArcGIS.
 What it does
